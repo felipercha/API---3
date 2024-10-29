@@ -79,7 +79,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 <div id="top"></div> 
 <p align="center"> 
-      <img src="tecnologia.png" width="50%" height="70%"> 
+      <img src="Sprint 1/tecnologia.png"50%" height="70%"> 
 <p align="center">
 
 
