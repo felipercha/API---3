@@ -49,7 +49,7 @@ Espera-se que o modelo matemático determine as rotas mais rápidas e econômica
 
 Sprint | Previsão | Status| Histórico| 
 |------|--------|------|--------|
-|Kick Off | 03/09/2024 | Concluído | [Ver Relatório]()| 
+|Kick Off | 03/09/2024 | Concluído | [Ver Relatório](kickoff.pdf)| 
 |Backlog| 24/09/2024 | Concluído| [Ver Relatório](back.pdf)| 
 |01| 22/09/2024|  Concluído |[Ver Relatório](Sprint1.pdf) | 
 |02| 05/10/2024| Concluído |[Ver Relatório](sprint2.pdf) | 
