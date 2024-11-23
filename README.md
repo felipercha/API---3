@@ -79,7 +79,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 <div id="top"></div> 
 <p align="center"> 
-      <img src="api/tecnologia.png"40%" height="50%"> 
+      <img src="api/tecnologia.png"20%" height="40%"> 
 <p align="center">
 
 
