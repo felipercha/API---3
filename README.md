@@ -2,10 +2,8 @@
 <p align="center"> 
       <img src="api/gif.gif" width="40%" height="60%"> 
 <p align="center">
-
+      
 # LogiMax Insights
-
-
 
 
 # Índice
