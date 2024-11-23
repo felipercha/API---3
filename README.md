@@ -1,9 +1,7 @@
-
-![Nome do Vídeo](api/gif.gif)
-
-
-
-
+<div id="top"></div> 
+<p align="center"> 
+      <img src="" width="70%" height="70%"> 
+<p align="center">
 
 # LogiMax Insights
 
