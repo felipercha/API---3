@@ -77,7 +77,11 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 ![Nome do Vídeo](api/api.gif)
 
-
+<div id="top"></div> 
+<p align="center"> 
+      <img src="api/gif.gif" width="40%" height="60%"> 
+<p align="center">
+      
 ## Tecnologias Utilizadas
 
 <div id="top"></div> 
