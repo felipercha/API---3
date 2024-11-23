@@ -1,6 +1,6 @@
 <div id="top"></div> 
 <p align="center"> 
-      <img src="" width="70%" height="70%"> 
+      <img src="api/gif.gif" width="40%" height="60%"> 
 <p align="center">
 
 # LogiMax Insights
