@@ -52,7 +52,7 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 03/09/2024 | Concluído | [Ver Relatório](api/Kickoff.pdf)| 
 |Backlog| 24/09/2024 | Concluído| [Ver Relatório](back.pdf)| 
 |01| 22/09/2024|  Concluído |[Ver Relatório](api/1sprint.pdf) | 
-|02| 05/10/2024| Concluído |[Ver Relatório](sprint2.pdf) | 
+|02| 05/10/2024| Concluído |[Ver Relatório](api/2sprint.pdf) | 
 |03| 26/10/2024 | iniciado |[Ver Relatório]()  | 
 |Feira de Soluções| 12/12/2024 | Não iniciado |[Ver Relatório]()  | 
 
