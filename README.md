@@ -72,7 +72,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 
 
-![Nome do Vídeo](API.gif)
+![Nome do Vídeo](api/api.gif)
 
 
 ## Tecnologias Utilizadas
