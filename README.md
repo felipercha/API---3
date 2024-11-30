@@ -86,13 +86,13 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 ## Python (Cenário Médio)
 <div id="top"></div> 
 <p align="center"> 
-      <img src="api/colab.gif" width="70%" height="100%"> 
+      <img src="api/colab.gif" width="90%" height="100%"> 
 <p align="center">
 
 ## Python (Cenário Alto)
 <div id="top"></div> 
 <p align="center"> 
-      <img src="api/alto.gif" width="70%" height="100%"> 
+      <img src="api/alto.gif" width="90%" height="100%"> 
 <p align="center">
 
       
