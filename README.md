@@ -62,9 +62,9 @@ Sprint | Previsão | Status| Histórico|
 # Backlog do produto
 - [x] Modelo de Banco de dados consolidados em SQL
 - [x] Visualização gráficas iniciais de métricas importantes, como a quantidade transportada por mês e por veículo, a quantidade transportada por fábrica, o valor do frete por fábrica e a média de aproveitamento por veículo no Power BI
-- [ ] Método de transporte e otimização em python
-- [ ] Visualizações gráficas dos resultados otimizados 
-- [ ] Evoluções e comparativos dos custos
+- [x] Método de transporte e otimização em python
+- [x] Visualizações gráficas dos resultados otimizados 
+- [x] Evoluções e comparativos dos custos
 
 
 
@@ -126,10 +126,10 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 - [x] Evolução dos custos.
       
 ## Sprint 3 . 
-- [ ] Análise dos dados, verificar possíveis melhorias dos dados obtidos;
-- [ ] Registro técnico do desenvolvimento do projeto e equipe (Relatório 3);
-- [ ] Análise gráfica final em Power BI;
-- [ ] Cenário realizado e Cenário comparativo.
+- [x] Análise dos dados, verificar possíveis melhorias dos dados obtidos;
+- [x] Registro técnico do desenvolvimento do projeto e equipe (Relatório 3);
+- [x] Análise gráfica final em Power BI;
+- [x] Cenário realizado e Cenário comparativo.
       
       
       
