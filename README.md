@@ -82,6 +82,19 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 <p align="center"> 
       <img src="api/colab.gif" width="70%" height="100%"> 
 <p align="center">
+
+## Python (Colab)
+<div id="top"></div> 
+<p align="center"> 
+      <img src="api/colab.gif" width="70%" height="100%"> 
+<p align="center">
+
+## Python (Colab)
+<div id="top"></div> 
+<p align="center"> 
+      <img src="api/colab.gif" width="70%" height="100%"> 
+<p align="center">
+
       
 ## Tecnologias Utilizadas
 
