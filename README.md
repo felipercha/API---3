@@ -77,22 +77,22 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 ![Nome do Vídeo](api/api.gif)
 
-## Python (Colab)
+## Python (Cenário Ótimo)
+<div id="top"></div> 
+<p align="center"> 
+      <img src="" width="70%" height="100%"> 
+<p align="center">
+
+## Python (Cenário Médio)
 <div id="top"></div> 
 <p align="center"> 
       <img src="api/colab.gif" width="70%" height="100%"> 
 <p align="center">
 
-## Python (Colab)
+## Python (Cenário Alto)
 <div id="top"></div> 
 <p align="center"> 
-      <img src="api/colab.gif" width="70%" height="100%"> 
-<p align="center">
-
-## Python (Colab)
-<div id="top"></div> 
-<p align="center"> 
-      <img src="api/colab.gif" width="70%" height="100%"> 
+      <img src="" width="70%" height="100%"> 
 <p align="center">
 
       
