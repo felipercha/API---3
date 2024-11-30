@@ -80,7 +80,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 <div id="top"></div> 
 <p align="center"> 
-      <img src="api/tecnologia.png"20%" height="40%"> 
+      <img src="api/sql.jpeg"20%" height="20%"> 
 <p align="center">
       
 ## Python (Cenário Ótimo)
