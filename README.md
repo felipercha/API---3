@@ -80,7 +80,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 ## Python (Cenário Ótimo)
 <div id="top"></div> 
 <p align="center"> 
-      <img src="" width="70%" height="100%"> 
+      <img src="api/otimo.gif" width="70%" height="100%"> 
 <p align="center">
 
 ## Python (Cenário Médio)
