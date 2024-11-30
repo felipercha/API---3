@@ -75,7 +75,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 
 
-![Nome do Vídeo](api/api.gif)
+![Nome do Vídeo](api/dashboard.gif)
 
 ## Python (Cenário Ótimo)
 <div id="top"></div> 
