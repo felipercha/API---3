@@ -92,7 +92,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 ## Python (Cenário Alto)
 <div id="top"></div> 
 <p align="center"> 
-      <img src="" width="70%" height="100%"> 
+      <img src="api/alto.gif" width="70%" height="100%"> 
 <p align="center">
 
       
