@@ -76,7 +76,13 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 
 ![Nome do Vídeo](api/dashboard.gif)
+## Tratamento de Dados (SQL)
 
+<div id="top"></div> 
+<p align="center"> 
+      <img src="api/tecnologia.png"20%" height="40%"> 
+<p align="center">
+      
 ## Python (Cenário Ótimo)
 <div id="top"></div> 
 <p align="center"> 
